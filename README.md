@@ -17,6 +17,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusbcavalcante&" alt="viniciusbcavalcante" /></p>
 
 
+
+
+
 <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
@@ -66,9 +69,6 @@
 
 ![Metrics](https://metrics.lecoq.io/ViniciusBCavalcante?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
 <br>
